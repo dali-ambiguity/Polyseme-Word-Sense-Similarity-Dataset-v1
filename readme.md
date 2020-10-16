@@ -68,13 +68,13 @@ Every submission has three entries:
 Sample IDs uniquely identify target words and sample sentences shown to the participant. The full list of samples can be found in our paper. 
 
 Every judgement has six entries:
--`rating`, the assigned graded similarity rating on a scale from 1 to 100
--`target word`, the highlighted target expression rated by the participant
--`sample`, a description of the sample (target word and interpretations invoked by the sample sentences)
--`sentence_1`, the first sample sentence displayed to the participant
--`sentence_2`, the second sample sentence displayed to the participant
--`highlights_1`, the indexes of words highlighted in the first sample sentence
--`highlights_2`, the indexes of words highlighted in the second sample sentence
+- `rating`, the assigned graded similarity rating on a scale from 1 to 100
+- `target word`, the highlighted target expression rated by the participant
+- `sample`, a description of the sample (target word and interpretations invoked by the sample sentences)
+- `sentence_1`, the first sample sentence displayed to the participant
+- `sentence_2`, the second sample sentence displayed to the participant
+- `highlights_1`, the indexes of words highlighted in the first sample sentence
+- `highlights_2`, the indexes of words highlighted in the second sample sentence
 
 Target expression highlights can be used to extract word embeddings from contextualised language model encodings of the sample sentences. 
 

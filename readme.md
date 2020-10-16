@@ -1,6 +1,6 @@
 # Polyseme Word Sense Similarity Dataset v1
 
-This is the first version of a **Polyseme Word Sense Similarity Dataset** collected by [Janosch Haber](http://janoschhaber.com) and [Massimo Poesio](https://sites.google.com/view/massimo-poesio/home) for the [DALI Project](http://dali.eecs.qmul.ac.uk/) at [Queen Mary University of London](https://www.qmul.ac.uk/). The dataset contains 20 graded similarity judgements for polysemic target words used in contexts invoking different sense interpretations. This version covers the following 10 systematic polysemes:
+This is the first version of a **Polyseme Word Sense Similarity Dataset** collected by [Janosch Haber](http://janoschhaber.com) and [Massimo Poesio](https://sites.google.com/view/massimo-poesio/home) for the [DALI Project](http://dali.eecs.qmul.ac.uk/) at [Queen Mary University of London](https://www.qmul.ac.uk/). The dataset contains 20 graded similarity judgements each for polysemic target words used in contexts invoking different sense interpretations. This version covers the following 10 systematic polysemes
 
 - newspaper (3 senses)
 - War and Peace (2 senses)
@@ -97,4 +97,4 @@ If you use this dataset, please cite our paper
 ```
 
 ## Contact
-For questions, please feel free to contact Janosch Haber at [j.haber@qmul.ac.uk](mailto:j.haber@qmul.ac.uk).
+For questions, feel free to contact Janosch Haber at [j.haber@qmul.ac.uk](mailto:j.haber@qmul.ac.uk).
